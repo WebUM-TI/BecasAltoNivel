@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "becasocadminticumanizales",
+  "private_key_id": "77636c5a3ff801349d73d1183848a43fa58f524f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCmwnQH289I4K4I\noXaI761o0cZhopc2z0LMwzYlpH/DOEZifDSG1fHWerBKek6iXRQj2z1TQRUmogVi\nSQmxXsgjnuoK5db2P2lLck4YpJb6TAQofivUWC4pcxg6h7BIX12IyOlkQngx6fyE\nuFGUvuIINCdn1ONKrWMjnBF7Jbx2vAUFvHFhnp0kmNXnAP9qsIeqw5tvhxgeCLuJ\nZdQkeUWOp+8D5OIiYLAFBERzowBiC8RuGjLKxhm7txNAMnM03b8zWex3iE0DLcEY\nZebX8YwHa6bwLC8n1x2fz8maZnAMd12YX1j7aB4rWoCudMkYj7yPbXPN13rScyKA\nzHJhxDtvAgMBAAECggEAEUZRiMLffTgxLxmy0sqpVxNsDo8uRPJBhD6wrEOXLJz2\nxZsCQfmFvOcmvgBfhvhHbtN2TdqPG1prXlwckfA0oWQD8K8Qjp/RA4zKxEjAjxsy\nzxMK7UtZNNgEaYPG4ihm4xWU/9rW4qzPiNwjL1p6xcjJUDtAdGrzuyuer/gfxtjW\niUIQcwopw7qF3s3ZliTAD7QYnIgWOHFeLSSgAqDpLbUx3MbxUSI6S2eDEx4bB+in\nStTQKrt2eIMDOFvJZlKQwNV/o0xcTim41uu+rk8+QFNHtMjuP+l+muSoJcADXWap\nR73qgkFBuXoY0NNMMA6UETWRHPUr/AzyPfzHcJwSqQKBgQDQQJXoLuU7QsppGJFY\nX8BcQ4Iq6WXsLCZX9mIme4Iw0V8r8HCoaDcwQwovHDyg9nzpk5xb0YjjFXRSHa4W\n7SmSnETTNdcygMCln1IqATVVQp8IbOAIRHrqpomyjOx16CMl5QFVyOm7qgBbnKp9\nzE9AsjMlP1btsQQyims3sj4fhQKBgQDM/nGy+YkfmGpmkn2qSS50nYL22qULzDEZ\nnAi5t4+ns7rh/2aSVpegzclsAixCTxmwOaAA2L+s+nHS/pS8IT4uzMTp3YBmUhVc\nTnuQHXDQe6nQP1LTLqKUn3skzP1Y//CRNFJGnOCAfkRNAVhgqjqsECW+aqszhyJ0\nUfjMrTRPYwKBgQDLEP9cHUZXh+RZoKQxuYSYMxfdgiNprQ9inJTOk4a61Z5o+RbR\nkHWoMObgUzdneZMKLG6+Nc62J/h6DgjwwCfWl1yhW5HQ5C12EqoK3YzE66apj4jR\nZv04jFYe7j2xJ0AGtoybusL3xGh+7IBvFGd/XYRz4JSCSCcgpUqxT7Q2BQKBgD+y\nYIoIV79lkMpGgp3DF5hMyUEDN32u+SLIBT4P96dYhZ1ryud12K+ywf+5vR7tjUHg\n5gLdVtHdEDlLudOrULMiFZ3FofwpTVHdYS+qtj9R7bYztvy/5OzhkVYiDCb3gDze\nUSJ35JqIoZh77oY63vhQHCpK4t+kAeS7A+A1gaeZAoGAa8EaQnTzo43bxVGgjI0W\nt0glRDeByOunqTc5kCrqtJtsaSq4Jh3WIpAO2acvZ9ENHRalQvV9sKuGYteK+sbY\nomQmr/FPrSxpDBxuSwhN1ViuxajKt7tjxQ3W42gus7QOyjilRI2KcHwRtlNvmgBs\nlsaN9GgHim3gkOrpaDe+/IY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "becasaccess@becasocadminticumanizales.iam.gserviceaccount.com",
+  "client_id": "100456255099367591716",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/becasaccess%40becasocadminticumanizales.iam.gserviceaccount.com"
+}
